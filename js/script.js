@@ -17,11 +17,12 @@
 
 // Songs
 var mySong = {
-	"title":"24K Magic",
-	"artist":"Bruno Mars",
-	"mp3-url":"https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P",
+	"title":"dothatshit!",
+	"artist":"Playboi Carti",
+	"mp3-url":"https://www.youtube.com/watch?v=geqZRB2-XlI",
 	"image-url":"https://images-na.ssl-images-amazon.com/images/I/71Gr9aCHQfL._SY355_.jpg",
 }
+$('body').append("<p>address:" )
 
 var myPlayList = [
 	{
